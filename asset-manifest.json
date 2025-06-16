@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/create-exam-app/static/css/main.d37c3591.css",
+    "main.js": "/create-exam-app/static/js/main.6f53acdc.js",
+    "static/js/453.a0417238.chunk.js": "/create-exam-app/static/js/453.a0417238.chunk.js",
+    "index.html": "/create-exam-app/index.html",
+    "main.d37c3591.css.map": "/create-exam-app/static/css/main.d37c3591.css.map",
+    "main.6f53acdc.js.map": "/create-exam-app/static/js/main.6f53acdc.js.map",
+    "453.a0417238.chunk.js.map": "/create-exam-app/static/js/453.a0417238.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d37c3591.css",
+    "static/js/main.6f53acdc.js"
+  ]
+}
